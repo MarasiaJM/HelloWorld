@@ -1,7 +1,8 @@
 # -*- coding: cp1250 -*-
-print 'Sprawdzam, czy liczba jest całkowita.'
-liczba=raw_input("Podaj liczbę:")
+# dodanie komentarza o pliku
+print 'Sprawdzam, czy liczba jest caÂłkowita.'
+liczba=raw_input("Podaj liczbĂŞ:")
 if float(liczba)==int(liczba):
-    print "Liczba całkowita"
+    print "Liczba caÂłkowita"
 else:
-    print "Liczba ułamkowa"
+    print "Liczba uÂłamkowa"
